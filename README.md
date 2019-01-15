@@ -5,7 +5,7 @@ Công cụ phát triển phần mềm
 
 Hello there - welcome to _mastering markdown_!
 
-I'm **super excited** to have you along for the ride
+I'm **super excited** to have you along for the ride.
 
 ```javascript
 const name = 'Tuan'
