@@ -8,7 +8,7 @@ Hello there - welcome to _mastering markdown_!
 I'm **super excited** to have you along for the ride.
 
 ```javascript
-const name = 'Tuan'
+const name = 'Tin'
 let age = 100;
 ```
 
